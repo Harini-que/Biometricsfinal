@@ -9,4 +9,4 @@ deepface
 fer
 gTTS
 pandas
-Pillow
+# Pillow (Optional: Keep if deployment fails without it, but usually redundant)
