@@ -1,5 +1,5 @@
 streamlit>=1.36.0
-dlib
+dlib==19.22
 opencv-python-headless
 numpy
 scikit-image
@@ -9,4 +9,3 @@ deepface
 fer
 gTTS
 pandas
-# Pillow (Optional: Keep if deployment fails without it, but usually redundant)
