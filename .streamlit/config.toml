@@ -1,0 +1,4 @@
+[general]
+# This line tells the Streamlit server to use Python 3.11, 
+# which is known to be compatible with mediapipe and dlib.
+pythonVersion = "3.11"
