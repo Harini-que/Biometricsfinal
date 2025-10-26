@@ -1,0 +1,5 @@
+# .streamlit/packages.toml (or just packages.toml in the root)
+# The Python version MUST be specified in this file for Streamlit Community Cloud.
+[general]
+# Using Python 3.11 for better compatibility with complex libraries like mediapipe and dlib
+python_version = "3.11"
