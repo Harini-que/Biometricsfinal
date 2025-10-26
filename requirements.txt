@@ -1,0 +1,12 @@
+streamlit>=1.36.0
+dlib
+opencv-python-headless
+numpy
+scikit-image
+scikit-learn
+mediapipe
+deepface
+fer
+gTTS
+pandas
+Pillow
