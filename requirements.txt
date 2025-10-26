@@ -1,11 +1,12 @@
 streamlit>=1.36.0
-dlib==19.22
+dlib==19.22.0
 opencv-python-headless
 numpy
 scikit-image
 scikit-learn
 mediapipe
-deepface
+deepface==0.0.95  # Pinning this often stabilizes the whole dependency chain
 fer
 gTTS
 pandas
+Pillow
